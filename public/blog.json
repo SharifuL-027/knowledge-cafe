@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://example.com/images/ai-future.jpg",
+    "title": "The Future of Artificial Intelligence",
+    "author": "Emily Carter",
+    "author_img": "https://example.com/authors/emily.jpg",
+    "posted_date": "2026-02-10",
+    "reading_time": "6 min read",
+    "hashtags": ["AI", "MachineLearning", "FutureTech"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://example.com/images/web-dev.jpg",
+    "title": "Modern Web Development Trends",
+    "author": "Michael Lee",
+    "author_img": "https://example.com/authors/michael.jpg",
+    "posted_date": "2026-01-28",
+    "reading_time": "5 min read",
+    "hashtags": ["WebDevelopment", "JavaScript", "Frontend"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://example.com/images/data-science.jpg",
+    "title": "Getting Started with Data Science",
+    "author": "Sophia Martinez",
+    "author_img": "https://example.com/authors/sophia.jpg",
+    "posted_date": "2026-02-02",
+    "reading_time": "7 min read",
+    "hashtags": ["DataScience", "Python", "Analytics"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://example.com/images/cyber-security.jpg",
+    "title": "Cyber Security Basics for Beginners",
+    "author": "Daniel Robinson",
+    "author_img": "https://example.com/authors/daniel.jpg",
+    "posted_date": "2026-02-15",
+    "reading_time": "4 min read",
+    "hashtags": ["CyberSecurity", "Privacy", "Security"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://example.com/images/cloud-computing.jpg",
+    "title": "Understanding Cloud Computing",
+    "author": "Olivia Bennett",
+    "author_img": "https://example.com/authors/olivia.jpg",
+    "posted_date": "2026-02-20",
+    "reading_time": "6 min read",
+    "hashtags": ["Cloud", "AWS", "DevOps"]
+  }
+]
